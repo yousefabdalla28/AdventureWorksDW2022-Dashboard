@@ -1,0 +1,16 @@
+Download Adventure Works DW 2016.bak
+
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+-----------------------------------------------
+
+1- Use Direct query mode to connect to Adventure Works DW  
+2- Create star schema model
+3- convert tables to import mode storage 
+4- use DAX measure to create a measure that only calculate sales amount for France
+5- Create 2 roles one for Canada team and one for other countries
+6- create drill through 
+7- create product hierarchy
+8- Use Q&A, tree decomposition, Key influencers and smart narrative charts
+9- Use tool tip
+10 - use KPI visual
+11- Create an organized report with meaningful colors
